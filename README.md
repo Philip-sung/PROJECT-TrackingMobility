@@ -122,8 +122,7 @@ $$ C=\frac{\sum_{i=1}^{16}c_ip_i}{\sum_{i=1}^{16}p_i}=\frac{(2.65\times10^{-3})\
 
 ### Tracking Mobility Controller
 
-[![tm-demo](https://img.youtube.com/vi/mu4dMLrJ6V8/0.jpg)](https://www.youtube.com/watch?v=mu4dMLrJ6V8)
-
+https://user-images.githubusercontent.com/75019527/230735807-d9030d66-58bf-4898-976b-1891bdc859ed.mp4
 Demo video can be seen above. The controller manipulates the RC car well to follow the target. It also stops when it fails to detect the target.
 
 ## Limitations
